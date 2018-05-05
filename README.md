@@ -1,4 +1,4 @@
-# Node.js Loginapp
+# Node.js Track-app
 
 ### Version
 1.1.0
@@ -8,7 +8,7 @@
 
 ### Installation
 
-Loginapp requires [Node.js](https://nodejs.org/) v4+ to run.
+Track-app requires [Node.js](https://nodejs.org/) v4+ to run.
 
 ```sh
 $ npm install
